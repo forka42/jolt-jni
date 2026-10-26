@@ -12,6 +12,7 @@
 /buildSrc/.gradle/
 
 # Ignore Gradle's build output directories:
+/bin/
 /build/
 /buildSrc/build/
 
